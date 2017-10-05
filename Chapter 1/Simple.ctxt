@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Simple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Simple\ here.\r\n\ 1.\tsimple\ (Why\ do\ you\ even\ have\ to\ change\ the\ name\ of\ the\ file\ in\ this\ case?)\r\n\tAnswer\:\ It\ is\ lowercase\ instead\ ofa\ Capital\ letter.\ Yes\ its\ legal.\ No\ its\ a\ bad\ choice\ because\ first\ letter\ in\ identifiers\ are\ usually\ capital.\r\n2.\tSimpleProgram\r\n\tAnswer\:\ Yes\ its\ legal.\ Yes\ its\ good.\r\n3.\t1Simple\r\n\tAnswer\:\ No\ its\ not\ legal.\ Identifiers\ can't\ begin\ with\ a\ digit.\r\n4.\t_Simple_\r\n\tAnswer\:\ Yes\ its\ legal.\ Not\ good,\ identifier\ may\ be\ confusing\ since\ it\ doesnt\ start\ with\ a\ capital\ letter\r\n5.\t*Simple*\r\n\tAnswer\:\ No\ its\ not\ legal.\ Character\ is\ not\ legal\ in\ identifiers.\r\n6.\t$123_45\r\n\tAnswer\:\ Yes\ its\ legal.\ Not\ good,\ not\ descriptive\ of\ program\ \r\n7.\tSimple\!\r\n\tAnswer\:\ No\ its\ not\ legal.\ Exclamation\ point\ not\ legal\ in\ identifiers.\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
